@@ -1,0 +1,132 @@
+body {
+    width: 1720px;
+    height: 700px;
+    overflow-x: hidden;
+    margin: 0;
+}
+
+
+.table {
+    width: 98.5px;
+    height: 200px;
+    display: flex;
+}
+.workers{
+    min-height: 200px;
+    display: flex;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
+.months_and_salary{
+    display: flex;
+    flex-direction: column;
+
+
+
+}
+
+
+
+
+.box1 {
+    border: solid;
+}
+
+.text1 {
+    font-size: 25%;
+    text-align: center;
+}
+
+.month_b{
+    border: solid;
+
+
+}
+
+.month{
+    font-size: 25%;
+    text-align: center;
+
+}
+
+.num_box_for_bord{
+        border: solid;
+}
+.num{
+    font-size: 25%;
+    text-align: center;
+
+}
+
+
+.months_num {
+    display: flex;
+    border: solid;
+
+}
+
+.box2 {
+    border: solid;
+}
+
+.text2{
+    font-size: 13%;
+    text-align: center
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

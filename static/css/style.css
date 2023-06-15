@@ -1,0 +1,192 @@
+body {
+    width: 100%;
+    height: 1900px;
+    overflow-x: hidden;
+    margin: 0;
+}
+.window_body{
+    background-image:
+    background-attachment: fixed;
+    background-size: 100%;
+    background-position: top center;
+    background-repeat: no-repeat;
+
+}
+
+
+.body-background-1 {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/gorod_zdaniia_arhitektura_172575_1920x1080.jpg');
+    background-attachment: fixed;
+}
+
+.body-background-2 {
+    background-image: url('https://img3.akspic.ru/crops/5/8/6/3/93685/93685-vodoem-kanal-sankt_peterburg-otrazhenie-gorodok-1920x1080.jpg');
+    background-attachment: fixed;
+}
+
+.body-background-3 {
+    background-image: url('https://images.wallpaperscraft.ru/image/single/zakat_nebo_rozovyj_131589_1920x1080.jpg');
+    background-attachment: fixed;
+}
+
+
+.body-background-4{
+    background-image: url('https://www.nastol.com.ua/pic/201111/1920x1080/nastol.com.ua-11084.jpg');
+    background-attachment: fixed;
+}
+
+
+header{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    background-color: ;
+    position: fixed;
+    top: 0px;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b5b5b5;
+    text-decoration: none;
+}
+
+a:active{
+    color: white;
+
+}
+
+
+
+
+.pre_logo{
+    margin-right: 50px;
+
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    margin-top: 4px;
+
+
+
+}
+
+.hater_for_i_dont_know{
+    width: 100%;
+    height: 80px;
+
+
+
+
+}
+.hater_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 10px;
+    margin-left: -40px;
+
+}
+
+.page_1{
+    margin-left: 20px;
+
+
+}
+
+.page_2{
+
+
+}
+
+.page_3{
+    margin-right: 20px;
+
+
+}
+
+
+
+
+
+
+.text_1{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 100%;
+    font-weight: 900;
+
+}
+
+.text_2{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 100%;
+    font-weight: 900;
+
+
+}
+
+.text_3{
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 100%;
+    font-weight: 900;
+
+
+
+}
+
+footer{
+    margin-top: 1000px;
+    width: 100%;
+    height: 50px;
+    background-color: #635d5d;
+    display: flex;
+    position: sticky;
+    color: white;
+
+
+}
+
+
+.Data_1, .Data_2, .Time_1{
+    top: 10px;
+    font-family: 'Barlow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-size: 65%;
+}
+
+
+.Data_1{
+
+    margin-left: 550px;
+
+
+}
+
+
+.Data_2{
+    margin-left: 4px;
+
+
+
+}
+
+
+.Time_1{
+    margin-left: 4px;
+
+}
+
+
